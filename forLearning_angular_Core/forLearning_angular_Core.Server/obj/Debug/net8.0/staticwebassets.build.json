@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "Pjo94yuabtF+KW7nUKMmOKkXrYYE59wxwZsvLeJ0d7E=",
+  "Source": "forLearning_angular_Core.Server",
+  "BasePath": "_content/forLearning_angular_Core.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\Desktop\\Hoodie\\forLearning_angular_Core\\forlearning_angular_core.client\\forlearning_angular_core.client.esproj",
+      "Version": 2,
+      "Source": "forlearning_angular_core.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
