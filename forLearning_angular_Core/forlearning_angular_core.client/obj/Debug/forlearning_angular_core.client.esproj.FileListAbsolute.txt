@@ -1,1 +1,2 @@
 C:\Users\Orange\Desktop\Hoodie\forLearning_angular_Core\forlearning_angular_core.client\obj\Debug\forlearning_angular_core.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Angular_core_api\forLearning_angular_Core\forlearning_angular_core.client\obj\Debug\forlearning_angular_core.client.esproj.CoreCompileInputs.cache

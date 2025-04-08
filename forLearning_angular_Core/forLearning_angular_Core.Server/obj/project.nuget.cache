@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TovLqUPWY+M=",
+  "dgSpecHash": "8XvgQLjLZGE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Orange\\Desktop\\Hoodie\\forLearning_angular_Core\\forLearning_angular_Core.Server\\forLearning_angular_Core.Server.csproj",
+  "projectFilePath": "C:\\Users\\Orange\\Desktop\\Angular_core_api\\forLearning_angular_Core\\forLearning_angular_Core.Server\\forLearning_angular_Core.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Orange\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Orange\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -5207,11 +5207,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Orange\\Desktop\\Hoodie\\forLearning_angular_Core\\forLearning_angular_Core.Server\\forLearning_angular_Core.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Orange\\Desktop\\Angular_core_api\\forLearning_angular_Core\\forLearning_angular_Core.Server\\forLearning_angular_Core.Server.csproj",
       "projectName": "forLearning_angular_Core.Server",
-      "projectPath": "C:\\Users\\Orange\\Desktop\\Hoodie\\forLearning_angular_Core\\forLearning_angular_Core.Server\\forLearning_angular_Core.Server.csproj",
+      "projectPath": "C:\\Users\\Orange\\Desktop\\Angular_core_api\\forLearning_angular_Core\\forLearning_angular_Core.Server\\forLearning_angular_Core.Server.csproj",
       "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Orange\\Desktop\\Hoodie\\forLearning_angular_Core\\forLearning_angular_Core.Server\\obj\\",
+      "outputPath": "C:\\Users\\Orange\\Desktop\\Angular_core_api\\forLearning_angular_Core\\forLearning_angular_Core.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

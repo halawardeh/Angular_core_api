@@ -33,10 +33,17 @@ namespace forLearning_angular_Core.Server.Controllers
         //    return Ok(categories);
         //}
 
+        //[HttpGet]
+        //public IActionResult getcategorybyName(string name)
+        //{
+        //    var category = _context.Categories.SingleOrDefault(category => category.CategoryName==name);
+        //    return Ok(category);
+        //}
+
         [HttpGet]
-        public IActionResult getcategorybyName(string name)
+        public IActionResult getcategorybyName(int id)
         {
-            var category = _context.Categories.SingleOrDefault(category => category.CategoryName==name);
+            var category = _context.Categories.SingleOrDefault(category => category.CategoryId == id);
             return Ok(category);
         }
     }
